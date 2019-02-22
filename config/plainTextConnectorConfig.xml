@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<TextFileConfiguration>
+    <FilePath>config/problems.csv</FilePath>
+    <Delimiters>@</Delimiters>
+    <DescriptionClassName>retriever.ProblemDescription</DescriptionClassName>
+    <DescriptionMappings>
+        <Map>titulo</Map>
+        <Map>descricao</Map>
+        <Map>entrada</Map>
+        <Map>saida</Map>
+		<Map>categoria</Map>
+		<Map>topico</Map>
+		<Map>nivel</Map>
+    </DescriptionMappings>
+</TextFileConfiguration>
